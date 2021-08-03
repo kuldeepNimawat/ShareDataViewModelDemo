@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShareDataViewModelDemo</string>
+    <string name="send_button_str">Send User</string>
+    <string name="user_name_str">Welcome User</string>
+</resources>
